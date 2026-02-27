@@ -1,0 +1,14 @@
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\bin\Debug\net10.0\tareaE2.exe
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\bin\Debug\net10.0\tareaE2.deps.json
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\bin\Debug\net10.0\tareaE2.runtimeconfig.json
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\bin\Debug\net10.0\tareaE2.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\bin\Debug\net10.0\tareaE2.pdb
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.AssemblyInfoInputs.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.AssemblyInfo.cs
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.csproj.CoreCompileInputs.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\refint\tareaE2.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.pdb
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\tareaE2.genruntimeconfig.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\tareaE2\obj\Debug\net10.0\ref\tareaE2.dll
